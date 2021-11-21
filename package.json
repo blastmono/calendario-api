@@ -1,7 +1,7 @@
 {
-  "name": "08-calendar-backend",
+  "name": "BackenCalendarioRL6",
   "version": "1.0.0",
-  "description": "",
+  "description": "Calendario hecho para RL6 por Marco Miranda Morales.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marco Miranda Morales",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
